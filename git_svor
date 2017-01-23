@@ -22,4 +22,6 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT?	Git rosalega gott fyrir hópvinnu
 
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?	 Við hvern einasta lið sem þú gerir ekki við hvert einasta skref en við hvern einasta lið, þanng veistu hvenær, hvar og hver gerðir mistök
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?	 Við hvern einasta lið sem þú gerir ekki við hvert einasta skref en við hvern einasta lið, þannig veistu hvenær, hvar og hver gerðir mistök
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?	Working directory er directoryið sem notandinn er í, Staging area er stundum líka kallað "index" en staging area er skrá sem er alment geymd í Git directoryinu, það geymir upplýsingar uym hvað fer í næsta commit, Repostory-ið er svæðið sem inniheldur allar skrár.
