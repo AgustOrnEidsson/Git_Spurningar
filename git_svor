@@ -24,4 +24,6 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?	 Við hvern einasta lið sem þú gerir ekki við hvert einasta skref en við hvern einasta lið, þannig veistu hvenær, hvar og hver gerðir mistök
 
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?	Working directory er directoryið sem notandinn er í, Staging area er stundum líka kallað "index" en staging area er skrá sem er alment geymd í Git directoryinu, það geymir upplýsingar uym hvað fer í næsta commit, Repostory-ið er svæðið sem inniheldur allar skrár.
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?	Working directory er directoryið sem notandinn er í, Staging area er stundum líka kallað "index" en staging area er skrá sem er alment geymd í Git directoryinu, það geymir upplýsingar um hvað fer í næsta commit, Repostory-ið er svæðið sem inniheldur allar skrár.
+
+8.	Hvenær er sniðugt að nota greinar (branches)?	Það er notað þegar það er verið að vinna í hópverkefni
