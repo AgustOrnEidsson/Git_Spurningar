@@ -5,3 +5,10 @@
 	ls		Sýnir innihaldið í möppuni
 	pwd		Sýnir leiðina í möppuna sem þú ert í/sýnir möppuna sem þú ert í
 	mkdir	Býr til nýtt directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone		Klónar repository inní nýlega búið til directory
+	git log			Sýnir Git history
+	git status		Sýnir statusinn af Git repository
+	git diff		Sýnir breytur á milli commits, commit og vinnandi tré og svo framvegis
+	git checkout	Skiptir um greinar eða endurreisir vinnandi tré skrárnar
