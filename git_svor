@@ -1,5 +1,5 @@
 #Git spurningar og svör
-Hvað gera eftirfarandi Linux skipanir?
+1. Hvað gera eftirfarandi Linux skipanir?
 	cd		Skiptir um directory
 	cd ~	Fer á heimasvæði notandans
 	ls		Sýnir innihaldið í möppuni
