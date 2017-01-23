@@ -12,3 +12,9 @@
 	git status		Sýnir statusinn af Git repository
 	git diff		Sýnir breytur á milli commits, commit og vinnandi tré og svo framvegis
 	git checkout	Skiptir um greinar eða endurreisir vinnandi tré skrárnar
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 					Sýnir breytur á milli commits, commit og vinnandi tré og svo framvegis
+	b) git diff --staged 			Sýnir það sem er búið að bæta við indexið en ekki búið að commita
+	c) git diff commit1 commit2		Sýnir breytingar á milli commit1 og commit2
+
