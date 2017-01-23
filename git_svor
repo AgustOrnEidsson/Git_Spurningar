@@ -1,1 +1,7 @@
 #Git spurningar og svör
+Hvað gera eftirfarandi Linux skipanir?
+	cd		Skiptir um directory
+	cd ~	Fer á heimasvæði notandans
+	ls		Sýnir innihaldið í möppuni
+	pwd		Sýnir leiðina í möppuna sem þú ert í/sýnir möppuna sem þú ert í
+	mkdir	Býr til nýtt directory
